@@ -1,6 +1,6 @@
 # BSides Newcastle (2024) Plant badge (Little Shop of Horrors)
 
-**This badge was given out at BSIDES Newcasyle and it's a working soil sensor!**
+**This badge was given out at BSIDES Newcastle and it's a working soil sensor!**
 
 This badge uses UV full colour silk, and we ordered them from JLCPCB using EasyEDA. The PCB was built first with AutoCAD EAGLE, then exported.
 
@@ -70,7 +70,7 @@ This board package can be installed via the board manager in arduino. The boards
 
 ### Setting up the IDE
 
-1. Open the file **bsides-cheltenham-2024-badge.ino** in arduino
+1. Open the file **bsides-newcastle-2024-badge.ino** in arduino
 2. Select tools > Board > megaTinyCore > ATtiny412/402/212/202
 3. Select tools > Chip > ATtiny402
 4. Select tools > Clock > 8Mhz internal *(we get power issues otherwise)*
